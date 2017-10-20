@@ -1,0 +1,98 @@
+/*Añadido por longhi */
+.borde{
+  border: 1px black solid;
+  width: 500px;
+  height:500px;
+}
+.bordesuperior{
+ position: relative;
+ top:-20px;
+  background-color: #F7B617;
+  width: 500px;
+height: 40px;
+
+}
+.bordesuperior p{
+  position: relative;
+  top:7px;
+  left: 25px;
+}
+.text{ margin-left: 50px;
+font-size: 20px}
+/* Actualizacion Danii */
+.center {
+  display: flex;
+  height: 425px;
+}
+/*.box_1{
+  width: 1500px;
+}*/
+
+.box_1 p:first-child{
+  text-align: center;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+.box_1 p:last-child{
+  margin: 15px;
+  text-align: center;
+}
+/*añadido por longhi*/
+.box_2{width:1510px;
+
+}
+.box_2 p:first-child{
+  text-align: center;
+  margin-bottom: 50px;
+  font-weight: bold;}
+.box_2 p:last-child{
+    margin: 15px;
+    text-align: center;
+  }
+
+/* Dani */
+
+.box_3 p:first-child{
+  text-align: center;
+  font-weight: bold;
+}
+.box_3 p:last-child{
+  margin: 15px;
+  text-align: center;
+}
+.box_1 .text_1 {
+  text-align: center;
+  margin: 10px;
+}
+.box_3 .text_3{
+text-align: center;
+margin: 10px;
+}
+.box_1, .box_2, .box_3 {
+  border: 1px solid black;
+  position: relative;
+  bottom: 20px;
+
+}
+/*  Ysabel  */
+.abajo{
+  position: relative;
+  top:-37px;
+   background-color: #F7B617 ;
+   width: 500px;
+ height: 35px;
+ }
+ .abajo .text{
+   font-size: 17px;
+   font-weight: bold;
+   position: relative;
+   top: 8px;
+ }
+ img{
+   width: 140px;
+   height: 90px;
+  position: relative;
+  top: 35px;
+  left: 4px;
+ }
