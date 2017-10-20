@@ -1,3 +1,4 @@
+<!--añadido por Wendy-->
 # *EJERCICIO TRIPTICO*
 ___
 *Se realizo el trabajo grupal de la elaboracion del triptico sobre el juego de mesa mas vendido, MONOPOLY.*
